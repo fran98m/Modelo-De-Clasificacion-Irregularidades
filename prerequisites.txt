@@ -1,0 +1,5 @@
+install the rust compiler
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+then
+install vs studio 
+https://visualstudio.microsoft.com/es/vs/features/cplusplus/
